@@ -1,8 +1,5 @@
 ## Hi! I am Nelio Machado.  👋
 
-<!--
-**MathMachado/MathMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.https://www.linkedin.com/in/neliomachado/)](https://www.https://www.linkedin.com/in/neliomachado/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:neliomachado@gmail.com)](mailto:neliomachado@gmail.com)
 
